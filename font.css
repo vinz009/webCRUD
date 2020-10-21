@@ -1,0 +1,10 @@
+
+@font-face{
+  font-family:Mont;
+  src:url(Montserrat/Montserrat-Medium.ttf);
+}
+
+body{
+  font-family:Mont;
+  font-size: 22px;
+}
